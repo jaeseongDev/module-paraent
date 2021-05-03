@@ -1,0 +1,3 @@
+[submodule "module-child"]
+	path = module-child
+	url = https://github.com/jaeseongDev/module-child.git
